@@ -1,2 +1,2 @@
 # doc_py
-sp
+https://www.sensiocoders.com/blog
